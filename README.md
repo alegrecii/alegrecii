@@ -33,3 +33,7 @@
 </div>
 
 ###
+
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/alegreci?1337Badge=off&UM6P=off" alt="alegreci's 42 stats" /></a>
+
+###
